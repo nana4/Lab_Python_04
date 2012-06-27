@@ -1,0 +1,6 @@
+Q3)
+A) TUPLES: Changes cannot be made to them
+C) listA + list B
+
+Q4)
+A) Dictionary
